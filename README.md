@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*DESCRIPTION* 
+**DESCRIPTION** 
 
 As part of Task-1 for my Full Stack Web Development internship at CODTECH IT Solutions, I was assigned the responsibility to build a project that demonstrates API integration. After researching a variety of free and public APIs, I selected the Open-Meteo API. This API stood out because it offers both weather forecasting and geocoding services, does not require any API key, and supports global coverage. These features made it ideal for building a real-time, location-based weather web application.
 
@@ -24,17 +24,17 @@ On the design side, I aimed to create a clean, modern, and responsive user inter
 
 This weather app serves several practical, everyday purposes. For instance, users can check current weather before going out, while traveling, or when planning events. It’s particularly useful for international students, travelers, and remote workers who want to know the weather in another part of the world. A student planning to study abroad could monitor weather conditions in their future city, while someone working with a global team could quickly check the weather in a colleague’s location. It also holds value in educational settings, such as classrooms where teachers can use it as a tool to introduce concepts in geography and climate science.
 
-I hosted this application using Replit, a cloud-based coding platform that allowed me to write, test, and deploy the app directly from the browser. Replit also generated a live link that I can easily share with mentors, peers, or evaluators. This simplified the deployment process and enabled real-time access to the project.
+I hosted this application using Netlify, a free and developer-friendly cloud platform that enabled me to deploy static websites with ease. With Netlify, I was able to drag and drop my project folder or connect a GitHub repository and instantly generate a shareable live URL. This simplified the deployment process and allowed me to make my application publicly accessible without needing to set up or manage any server.
 
-CONCLUSION
+**CONCLUSION**
 
 This project allowed me to translate classroom learning into a practical, real-world application. It helped me understand how frontend technologies interact with third-party APIs, how to handle asynchronous data using the fetch API, and how to structure and display dynamic content on a webpage. By working with JSON responses and integrating external resources like flag icons, I gained experience in data processing and DOM manipulation.
 
-The design phase strengthened my skills in writing responsive and user-friendly CSS. Hosting the project on Replit gave me insights into lightweight deployment strategies and how to make a project publicly accessible without complex backend configurations.
+The design phase strengthened my skills in writing responsive and user-friendly CSS. Hosting the project on Netlify gave me experience in modern frontend deployment strategies and taught me how to publish a static web application without relying on backend servers or paid infrastructure.
 
 #LIVE PROJECT LINK
 
-https://ca1538f0-9b74-4403-b9c1-203310fae4ab-00-3ch8v47rs55by.pike.replit.dev/
+cool-eclair-ec3b4b.netlify.app
 
 #OUTPUT
 
